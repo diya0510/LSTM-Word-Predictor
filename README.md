@@ -36,10 +36,4 @@ This project uses a short paragraph about **Artificial Intelligence** and its su
 - Wrap into a simple Streamlit web app
 
 ---
-## 👤 Author
 
-**Diya Budhiraja**  
-CSE (AI & ML), 6th Semester  
-UID: 22BAI71416 | Section: 22AIT-KRG 2
-
----
